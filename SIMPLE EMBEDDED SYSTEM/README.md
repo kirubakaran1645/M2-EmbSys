@@ -62,8 +62,7 @@ sensor.
 
 
 ## BLOCK DIAGRAM:
-https://www.linkpicture.com/view.php?img=LPic62126ce4abb9a52372794
-
+![Screenshot (41)](https://user-images.githubusercontent.com/98970879/154853372-4eaa1100-4fa7-47fc-aad2-0c7e94ea639f.png)
 
 
 
