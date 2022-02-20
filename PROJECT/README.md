@@ -32,6 +32,7 @@ sensor.
 3) Arduino should able to show alert message using LCD display.
 
 ## BLOCK DIAGRAM:
+![Screenshot (41)](https://user-images.githubusercontent.com/98970879/154854621-d5d61c6b-68ba-47f0-98c4-b890a0c37d54.png) 
 
 
 
