@@ -65,6 +65,7 @@ button.
 
 
 ## BLOCK DIAGRAM:
+![Screenshot (42)](https://user-images.githubusercontent.com/98970879/154853853-858c6265-79a3-4a14-8d9b-579dcb55a453.png) 
 
 
 
