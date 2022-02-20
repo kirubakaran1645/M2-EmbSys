@@ -181,7 +181,9 @@ Microcontroller - ATmega328P
   is activated and a RED light LED will ON . If the sensor value remains within
   limits, a message showing “No Danger” keeps on displaying on the LCD screen
   and the GREEN light LED will ON. The buzzer is kept OFF for the condition.
-
+## APPLICATION:
+1) The applications of LPG leakage detector mainly applicable in domestic gas leakage detector,
+ industrial combustible gas detector, houses, portable gas detectors, LPG storage, factories, hotels and gas cars. 
 
   
 
