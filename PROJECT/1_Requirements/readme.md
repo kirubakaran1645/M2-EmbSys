@@ -35,6 +35,10 @@ The vehicle having major feature. In this technology it is used to determine the
 
 ## Threats
 Because of low senstivity it will not suitable in high temperature Environment.
+<br>
+<br>
+<br>
+[![image](https://www.linkpicture.com/q/WhatsApp-Image-2022-03-07-at-21.59.12.jpeg)](https://www.linkpicture.com/view.php?img=LPic622636da01705235870747)
 
 ## 4W's and 1'H
 ## Why
@@ -51,6 +55,9 @@ It can be used in Industries like Automobile.
 
 ## How
 It can be modified by changing the Temperature.
+<br>
+<br>
+[![image](https://www.linkpicture.com/q/WhatsApp-Image-2022-03-07-at-21.59.12-1.jpeg)](https://www.linkpicture.com/view.php?img=LPic622636fb509b0379656239)
 
 ## Detail Requirements
 ## High Level Requirements
