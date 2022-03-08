@@ -3,4 +3,4 @@
 [![Cppcheck-actions](https://github.com/kirubakaran1645/M2-EmbSys/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/kirubakaran1645/M2-EmbSys/actions/workflows/c-cpp.yml)
 <br> [![CI](https://github.com/kirubakaran1645/M2-EmbSys/actions/workflows/compile.yml/badge.svg)](https://github.com/kirubakaran1645/M2-EmbSys/actions/workflows/compile.yml)
 <br>![code_quality_score](https://api.codiga.io/project/31652/score/svg)
-<br>https://api.codiga.io/project/31652/status/svg
+<br>![Codacy Badge](https://api.codiga.io/project/31652/status/svg)
