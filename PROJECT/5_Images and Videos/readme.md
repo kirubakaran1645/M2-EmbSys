@@ -1,3 +1,9 @@
+# SWOT ANALYSIS
+<br> [![image](https://www.linkpicture.com/q/WhatsApp-Image-2022-03-07-at-21.59.12.jpeg)](https://www.linkpicture.com/view.php?img=LPic622636da01705235870747)
+<br>
+# 4W AND 1H
+<br> [![image](https://www.linkpicture.com/q/WhatsApp-Image-2022-03-07-at-21.59.12-1.jpeg)](https://www.linkpicture.com/view.php?img=LPic622636fb509b0379656239)
+<br>
 # Project In Action
 
 ## Activity 1
