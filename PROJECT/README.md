@@ -6,3 +6,15 @@
 <br>![Codacy Badge](https://api.codiga.io/project/31652/status/svg)
 ## Reference:
 https://www.researchgate.net/
+
+### FOLDER STRUCTURE
+| FOLDER | DESCRIPTION | 
+ | -- | ----------- | 
+ | 1_Requirements | Documents Detailing requirements and research | 
+ | 2_Design_daigram | Documents Specifying design details | 
+ | 3_Implementation | All Code and Documentation. | 
+ | 4_TestPlan | TestCases | 
+ | 5_Report | Depiction of project | 
+ | 6_Images and Videos | Result of Simulation | 
+
+.
