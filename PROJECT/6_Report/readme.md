@@ -115,6 +115,32 @@ It can be modified by changing the Temperature.
 |:--:|:--:|
 |![29C](https://user-images.githubusercontent.com/94127613/144220481-4712ccb8-1c50-4bf9-a7ea-40b680115564.png)|![20C](https://user-images.githubusercontent.com/94127613/144220530-24a1cc97-0e0a-4465-b09b-63de3174dec4.png)|
 
+## TEST PLAN and Corresponding Output
+
+### High Level Test Plan
+
+
+|   Test                                               | Exp I/P                |           Exp O/P            |      Actual Out          |    
+| -------------                                        |--------------          | ------                       | ------------------       | 	
+| Function of Seat Sensor                              |If person sits on seat  | Detects person               | Detects person           | 	
+| Function of Temprature  sensor                       |Temprature change       | Detects Temprature Change    | Detects Temprature Change| 	
+| Function of Display                                  |change in heat          | Display the output           | Display the output       | 	
+	
+
+
+
+### Low Level Test Plan
+
+
+|   Test                                               | Exp I/P                                     |           Exp O/P            |      Actual Out          |    
+| -------------                                        |--------------                               | ------                       | ------------------       | 	
+| Temperature changes                                  |if user Temprature=Heater Temprature         | Temprature is displayed      | Temprature is displayed  | 	
+| set Heater function                                  |When request sent                            | Sets Heater                  | Sets Heater              | 	
+
+
+
+
+
 
 
 
