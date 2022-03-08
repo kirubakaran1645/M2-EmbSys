@@ -14,7 +14,7 @@ https://www.researchgate.net/
  | 2_Design_daigram | Documents Specifying design details | 
  | 3_Implementation | All Code and Documentation. | 
  | 4_TestPlan | TestCases | 
- | 5_Report | Depiction of project | 
- | 6_Images and Videos | Result of Simulation | 
+ | 5_Images and Videos | Result of Simulation | 
+  | 6_Report | Depiction of project |
 
 .
